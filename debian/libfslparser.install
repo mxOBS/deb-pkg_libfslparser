@@ -1,0 +1,2 @@
+usr/lib/*.so.*
+usr/lib/imx-mm/parser/*.so.*

@@ -1,0 +1,6 @@
+usr/lib
+usr/lib/imx-mm
+usr/lib/imx-mm/parser
+usr/include
+usr/include/imx-mm
+usr/lib/pkgconfig
