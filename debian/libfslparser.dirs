@@ -1,3 +1,4 @@
+/etc/ld.so.conf.d
 usr/lib
 usr/lib/imx-mm
 usr/lib/imx-mm/parser

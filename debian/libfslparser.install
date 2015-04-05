@@ -1,2 +1,3 @@
+libfslparser.conf etc/ld.so.conf.d
 usr/lib/*.so.*
 usr/lib/imx-mm/parser/*.so.*
