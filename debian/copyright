@@ -27,6 +27,6 @@ License: GPL-2+
 Files: libfslparser-*/*
 Copyright: Freescale
 License: LA_OPT_FSL_OPEN_3RD_PARTY_IP
- FREESCALE SEMICONDUCTOR SOFTWARE LICENSE AGREEMENT v6 February 2015
+ v8 June 2015
  .
- See EULA.txt for the full text!
+ See /usr/share/doc/libfslparser/EULA.txt for the full text!

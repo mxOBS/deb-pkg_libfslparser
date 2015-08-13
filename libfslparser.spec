@@ -21,11 +21,11 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-%define blobpkg_name libfslparser-4.0.2
-%define blobpkg_md5 3ac0d341003ffe8404fd84e36b23dc5a
+%define blobpkg_name libfslparser-4.0.6
+%define blobpkg_md5 efc2e5a8ce98b2977962527470308b07
 
 Name: libfslparser
-Version: 4.0.2
+Version: 4.0.6
 Release: 1
 License: Unknown
 Group: Productivity/Multimedia/Other

@@ -12,8 +12,8 @@
 # hack: will only work on OBS-created chroots
 SOURCESDIRS=~ /usr/src/packages/SOURCES/
 
-NAME=libfslparser-4.0.3
-MD5=a0b0779edc543536de71898657072275
+NAME=libfslparser-4.0.6
+MD5=efc2e5a8ce98b2977962527470308b07
 
 # generate configure flags
 CONFFLAGS=
