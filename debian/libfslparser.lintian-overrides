@@ -1,0 +1,3 @@
+libfslparser binary: package-modifies-ld.so-search-path
+libfslparser binary: shlib-with-non-pic-code
+libfslparser binary: shlib-without-PT_GNU_STACK-section

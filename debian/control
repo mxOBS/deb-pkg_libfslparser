@@ -12,12 +12,12 @@ Package: libfslparser-dev
 Section: libdevel
 Architecture: any
 Depends: libfslparser (= ${binary:Version}), ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Development files for libfslparser
+ Provides development libraries and headers for building programs with libfslparser.
 
 Package: libfslparser
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Freescale multimedia parser library
+ Provides a binary-only library for parsing several multimedia file formats.
